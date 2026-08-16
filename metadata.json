@@ -1,0 +1,6 @@
+{
+  "name": "Rcc2000",
+  "description": "Baza kodów domofonów, pastylek RFID i parametrów instalacji z szybką lokalizacją GPS, eksportem/importem oraz synchronizacją.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
